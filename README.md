@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=505050&center=true&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
-<p align="left">
+<p align="center">
   <img height='25em' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img height='25em' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img height='25em' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -39,7 +39,12 @@ src="https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361de
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Oliveiraa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   <a href="https://github.com/Gabriel-Oliveiraa">
     
-<p align="left">   
+<p align="center">   
 <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-Oliveiraa&layout=compact&langs_count=14&theme=graywhite&show_icons=true"/>
 <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-Oliveiraa&show_icons=true&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true"/>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=505050&center=true&width=435&lines=Visitors)](https://git.io/typing-svg)
+
+<div align="center">  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gabriel-Oliveiraa}/count.svg" /></p> 
