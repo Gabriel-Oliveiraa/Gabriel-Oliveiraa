@@ -20,42 +20,26 @@ src="https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361de
 
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c78aa3&size=35&center=true&vCenter=true&width=1000&lines=How+I+live)
-```typescript
-leave alive = true;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=505050&center=true&width=435&lines=How+I+Live)](https://git.io/typing-svg)
 
-while(alive) {
-hotCoffee();
-affectionInMyDog();
-timeWithFamily();
-code();
-learn();
-eat();
-sleep();
-
-}
+```javascript
+(function repeat() {
+    eat();
+    sleep();
+    code();
+    study ();
+    repeat();
+})();
 ```
 
-
-<br/>
-  <br/>
-  <br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=505050&center=true&width=435&lines=Statistics)](https://git.io/typing-svg)
 
 <div>
  
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianacvn&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-  <a href="https://github.com/marianacvn">
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Oliveiraa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+  <a href="https://github.com/Gabriel-Oliveiraa">
     
-<p align="center">   
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marianacvn&layout=compact&langs_count=16&theme=buefy&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marianacvn&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"/>
+<p align="left">   
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-Oliveiraa&layout=compact&langs_count=14&theme=graywhite&show_icons=true"/>
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-Oliveiraa&show_icons=true&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true"/>
 </p>
-   
-<div> 
- 
-  
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c78aa3&size=35&center=true&vCenter=true&width=1000&lines=Visitors+<3)
-<div align="center">  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marianacvn}/count.svg" /></p> 
-</div> 
