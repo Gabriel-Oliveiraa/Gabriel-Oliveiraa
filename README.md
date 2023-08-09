@@ -27,7 +27,8 @@ src="https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361de
     eat();
     sleep();
     code();
-    study ();
+    study();
+    work();
     repeat();
 })();
 ```
