@@ -5,7 +5,7 @@
 # I`m postgraduate degree in Biophysics [Unyleya].
 + Serra Talhada - Pernambuco, Brazil.
 - 23 years old
-# Apaixonado pelo cosmos.
+# In love with the Cosmos!
 ``` 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=505050&center=true&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
