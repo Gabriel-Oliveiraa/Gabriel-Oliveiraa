@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=ffff00&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+Word!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=96152e&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+Word!)](https://git.io/typing-svg)
 
 ```diff
 # My name is Gabriel and I'm graduate in physics [IFSertão-PE].
@@ -8,7 +8,7 @@
 # In love with the Cosmos!
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=505050&size=35&center=true&vCenter=true&width=1000&lines=Languages+and+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=96152e&size=35&center=true&vCenter=true&width=1000&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
 <p align="center">
   <img height='25em' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,7 +20,7 @@ src="https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361de
 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=505050&size=35&center=true&vCenter=true&width=1000&lines=How+I+Live)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=96152e&size=35&center=true&vCenter=true&width=1000&lines=How+I+Live)](https://git.io/typing-svg)
 
 ```javascript
 (function repeat() {
@@ -33,7 +33,7 @@ src="https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361de
 })();
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=505050&size=35&center=true&vCenter=true&width=1000&lines=Statistics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=96152e&size=35&center=true&vCenter=true&width=1000&lines=Statistics)](https://git.io/typing-svg)
 
 <div>
  
