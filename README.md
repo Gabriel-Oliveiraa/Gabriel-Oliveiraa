@@ -45,7 +45,7 @@ src="https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361de
 <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-Oliveiraa&show_icons=true&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=505050&size=35&center=true&vCenter=true&width=1000&lines=Visitors)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=96152e&size=35&center=true&vCenter=true&width=1000&lines=Visitors)](https://git.io/typing-svg)
 
 <div align="center">  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gabriel-Oliveiraa}/count.svg" /></p> 
