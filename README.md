@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+Word!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=fded00&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+Word!)](https://git.io/typing-svg)
 
 ```diff
 # My name is Gabriel and I'm graduate in physics [IFSertão-PE].
