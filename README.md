@@ -6,6 +6,7 @@
 + Serra Talhada - Pernambuco, Brazil.
 - 23 years old
 # In love with the Cosmos!
+# E-mail: gabrielgbo00@gmail.com
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=fded00&size=35&center=true&vCenter=true&width=1000&lines=Languages+and+Tools)](https://git.io/typing-svg)
