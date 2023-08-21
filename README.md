@@ -23,14 +23,11 @@ src="https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361de
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=96152e&size=35&center=true&vCenter=true&width=1000&lines=How+I+Live)](https://git.io/typing-svg)
 
 ```javascript
-(function repeat() {
-    eat();
-    sleep();
-    code();
-    study();
-    work();
-    repeat();
-})();
+if (effort == '100%') {
+  life.getRewards ();
+} else {
+  throw new TryHarderException()
+} 
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=96152e&size=35&center=true&vCenter=true&width=1000&lines=Statistics)](https://git.io/typing-svg)
