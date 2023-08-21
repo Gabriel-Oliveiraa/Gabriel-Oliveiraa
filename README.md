@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=fded00&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+Word!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+Word!)](https://git.io/typing-svg)
 
 ```diff
 # My name is Gabriel and I'm graduate in physics [IFSertão-PE].
@@ -11,12 +11,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=fded00&size=35&center=true&vCenter=true&width=1000&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
 <p align="center">
-  <img height='25em' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img height='25em' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img height='25em' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img height='25em' src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img height='25em'     
-src="https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361dedb045d6c3cf8821fe30a1c2d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697426636f6c6f723d463035303332266c6f676f3d476974266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+  <img height='40em' src="https://icongr.am/devicon/html5-original.svg?size=100&color=currentColor" />
+  <img height='40em' src="https://icongr.am/devicon/css3-original.svg?size=100&color=currentColor" />
+  <img height='40em' src="https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor" />
+  <img height='40em' src="https://icongr.am/devicon/visualstudio-plain.svg?size=100&color=currentColor" />
+  <img height='40em' src="https://icongr.am/devicon/git-original.svg?size=100&color=currentColor" />
 
 </p>
 
