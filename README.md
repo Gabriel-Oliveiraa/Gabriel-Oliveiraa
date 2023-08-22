@@ -12,11 +12,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&pause=1000&color=fded00&size=35&center=true&vCenter=true&width=1000&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
 <p align="center">
-  <img height='40em' src="https://icongr.am/devicon/html5-original.svg?size=100&color=currentColor" />
-  <img height='40em' src="https://icongr.am/devicon/css3-original.svg?size=100&color=currentColor" />
-  <img height='40em' src="https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor" />
-  <img height='40em' src="https://icongr.am/devicon/visualstudio-plain.svg?size=100&color=currentColor" />
-  <img height='40em' src="https://icongr.am/devicon/git-original.svg?size=100&color=currentColor" />
+  <img height='30em' src="https://icongr.am/devicon/html5-original.svg?size=100&color=currentColor" />
+  <img height='30em' src="https://icongr.am/devicon/css3-original.svg?size=100&color=currentColor" />
+  <img height='30em' src="https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor" />
+  <img height='30em' src="https://icongr.am/devicon/visualstudio-plain.svg?size=100&color=currentColor" />
+  <img height='30em' src="https://icongr.am/devicon/git-original.svg?size=100&color=currentColor" />
 
 </p>
 
