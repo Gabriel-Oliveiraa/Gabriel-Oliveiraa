@@ -9,33 +9,111 @@
 # E-mail: gabrielgbo00@gmail.com
 ```
 
-<h1>Languages and frameworks:</h1>
-<p align="center">
-  <img height='30em' src="https://icongr.am/devicon/html5-original.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://icongr.am/devicon/css3-original.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://icongr.am/devicon/nodejs-original.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://icongr.am/devicon/express-original.svg?size=100&color=currentColor" />
-  
-<h1>Development tools:</h1>
-<p align="center">
-  <img height='30em' src="https://icongr.am/devicon/visualstudio-plain.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://icongr.am/devicon/git-original.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://icongr.am/devicon/npm-original-wordmark.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
+<h1>My Skills:</h1>
 
-<h1>Studying in this moment:</h1>
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img height='30em' src="https://icongr.am/devicon/bootstrap-plain.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://icongr.am/devicon/react-original-wordmark.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
-  <img height='30em' src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" />
-  <img height='30em' src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://icongr.am/devicon/postgresql-original.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://icongr.am/devicon/mongodb-original.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://icongr.am/devicon/docker-original.svg?size=100&color=currentColor" />
-  <img height='30em' src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" />
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+      alt="css3"/>
+  </a>
+</p>
+
+<h3 align="center">Frameworks and libraries</h3>
+<p align="center">
+  <a href="https://nodejs.org" target="_blank"> 
+  <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="nodejs"/> 
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
+      alt="express" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="react"/> 
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/> 
+  </a>
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="postgresql"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="mongodb"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="MySQL"/>
+  </a>
+</p>
+
+<h3 align="center">API development and testing</h3>
+<p align="center">
+  <a href="https://graphql.org" target="_blank">
+    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" 
+      alt="GraphQL"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://camo.githubusercontent.com/d2737af1a4caf34d83fc933874a0c907b6419848a41f8e3e914a7c35356ca3cf/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f73746d616e26636f6c6f723d464636433337266c6f676f3d506f73746d616e266c6f676f436f6c6f723d464646464646266c6162656c3d" 
+      alt="Postman API"/>
+  </a>
+</p>
+
+<h3 align="center">Cloud & Hosting:</h3>
+<p align="center">
+  <a href="https://heroku.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
+      alt="Heroku"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://camo.githubusercontent.com/4ec342876a40b53ffc6230a41196528690f9f42b1098fd354df46c649720b4c6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446f636b657226636f6c6f723d323439364544266c6f676f3d446f636b6572266c6f676f436f6c6f723d464646464646266c6162656c3d"
+      alt="Docker"/> 
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://camo.githubusercontent.com/80d308b575eba9b5e7c5743493566354071b3b2324f406d6998eb498207415c3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416d617a6f6e2b41575326636f6c6f723d323332463345266c6f676f3d416d617a6f6e2b415753266c6f676f436f6c6f723d464646464646266c6162656c3d"
+      alt="AWS"/> 
+  </a>
+
+<h3 align="center">Development tools</h3>
+<p align="center">
+<a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" 
+      alt="github" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" 
+      alt="vsCode"/> 
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://camo.githubusercontent.com/fd60ad1cae960eb3117e20dc1305b39f820004bf601b0e00ea032eccb9897dfd/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6e706d26636f6c6f723d434233383337266c6f676f3d6e706d266c6f676f436f6c6f723d464646464646266c6162656c3d" 
+      alt="NPM"/> 
+  </a>
+  
+
 
 <h1>How I Live</h1>
 
