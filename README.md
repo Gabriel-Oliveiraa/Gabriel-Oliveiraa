@@ -113,7 +113,7 @@
       alt="NPM"/> 
   </a>
   <a href="https://jestjs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" 
+    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" 
       alt="JestJS"/> 
   </a>
   
