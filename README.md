@@ -3,6 +3,7 @@
 ```diff
 # My name is Gabriel and I'm graduate in physics [IFSertão-PE].
 # I`m postgraduate degree in Biophysics [Unyleya].
+# I`m postgraduate student degree in Software Engineering [Focus].
 + Serra Talhada - Pernambuco, Brazil.
 - 23 years old
 # In love with the Cosmos!
@@ -61,10 +62,6 @@
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="MySQL"/>
-  </a>
 </p>
 
 <h3 align="center">API development and testing</h3>
@@ -81,10 +78,6 @@
 
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="Heroku"/> 
-  </a>
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="Docker"/> 
