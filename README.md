@@ -66,7 +66,7 @@ if (effort == '100%') {
   
 <p align="center">
   <a href="https://github.com/Gabriel-Oliveiraa">
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-Oliveiraa&layout=compact&langs_count=14&theme=github_dark_dimmed&show_icons=true"/>
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-Oliveiraa&show_icons=true&theme=github_dark_dimmed&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Oliveiraa&theme=github_dark_dimmed&layout=compact&langs_count=16&hide_border=true&count_private=true"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-Oliveiraa&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
    </a>
 </p> 
